@@ -1,4 +1,4 @@
 Email Template
 =========
 
-Portafolio web
+E-commerce template
